@@ -2,7 +2,7 @@
 
 Welcome to a "3D Advent calendar", a program created to fulfill requirements of the cub3D project (with bonus) at 42berlin.
 The main idea is to use a rendering technique called Raycasting in order to create a first-person 3D-perspective, based on a 2D-map.
-The project requires use of miniLibX simple graphics library.
+The project requires use of miniLibX simple graphics library for linux.
 
 ![Advent 3D experience](adventcub3d.gif)
 
