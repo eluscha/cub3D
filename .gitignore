@@ -1,0 +1,8 @@
+#the project exec
+cub3D
+
+
+#all object files
+*.o
+*.a
+
