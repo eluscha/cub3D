@@ -42,7 +42,7 @@ orientation of the player. Bonus map allows another character: D (door).
 
 ## Limitations
 
-- Bonus part: for the sake of time only the first two dooes will have unique sprites behind them, after that they are repeated. Also only the first three doors are numbered. More sprites can be easily added to make it a proper calender.
+- Bonus part: for the sake of time only the first two doors have unique sprites behind them, after that they are repeated. Also only the first three doors are numbered. More sprites can be easily added to make it a proper calender.
 - Generall limitations of the raycasting technology (it is a pseudo-3D space, sprites are 2D).
 - Limitations of the miniLibX library (e.g. fixed window size, textures must be of xpm format).
 - Beware of the “Power of Two” rule, when using your own wall textures. 
@@ -54,7 +54,7 @@ orientation of the player. Bonus map allows another character: D (door).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eluscha/cub3D.git cub3D
+   git clone --recursive https://github.com/eluscha/cub3D.git cub3D
    cd cub3D
    ```
 
